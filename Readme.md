@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/LocalizationDescriptor/MainPage.xaml) (VB: [MainPage.xaml](./VB/LocalizationDescriptor/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/LocalizationDescriptor/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/LocalizationDescriptor/MainPage.xaml))
+<!-- default file list end -->
 # How to Localize Individual Runtime Resource Strings
 
 
